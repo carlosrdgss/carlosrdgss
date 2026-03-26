@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou estudante de <b>Engenharia de Software</b> e um profissional em formação na área de tecnologia, com foco em <b>suporte técnico</b> e desenvolvimento de soluções.  <br>Tenho interesse em resolver problemas, aprender novas ferramentas e evoluir constantemente na área de TI.<br><br>Formação: Engenharia de Software – Universidade Católica de Santa Catarina | 2028<br>Técnico: Administração – Senac Joinville | 2024</p>
+<p align="left">Sou estudante de <b>Engenharia de Software</b> e um profissional em formação na área de tecnologia, com foco em <b>suporte técnico</b> e <b>desenvolvimento de soluções.</b>  <br>Tenho interesse em resolver problemas, aprender novas ferramentas e evoluir constantemente na área de TI.<br><br>Formação: Engenharia de Software – Universidade Católica de Santa Catarina | 2028<br>Técnico: Administração – Senac Joinville | 2024</p>
 
 ###
 
