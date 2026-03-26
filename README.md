@@ -1,9 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
 <h1 align="center">Olá! Sou o Carlos 🛹</h1>
 
 ###
@@ -12,7 +6,7 @@
 
 ###
 
-<p align="left">Sou estudante de <b>Engenharia de Software</b> e um profissional em formação na área de tecnologia, com foco em <b>suporte técnico e desenvolvimento de soluções.</b> <br>Tenho interesse em resolver problemas, aprender novas ferramentas e evoluir constantemente na área de TI.<br><br>Formação: <b>Engenharia de Software</b> – Universidade Católica de Santa Catarina | 2028<br>Técnico: Administração – Senac Joinville | 2024</p>
+<p align="left">Sou estudante de <b>Engenharia de Software</b> e um profissional em formação na área de tecnologia, com foco em <b>suporte técnico e desenvolvimento de soluções.</b>  <br>Tenho interesse em resolver problemas, aprender novas ferramentas e evoluir constantemente na área de TI.<br><br>Formação: <b>Engenharia de Software</b> – Universidade Católica de Santa Catarina | 2028<br>Técnico: Administração – Senac Joinville | 2024</p>
 
 ###
 
@@ -48,11 +42,5 @@
 ###
 
 <h1 align="left"></h1>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
