@@ -16,10 +16,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/carloserodriguess/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000080&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0063b1&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/carlosrodriguss/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000080&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0063b1&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="instagram logo"  />
   </a>
 </div>
 
