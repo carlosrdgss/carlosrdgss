@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Sou o Carlos 🛹</h1>
+<h1 align="center">Olá! Sou o Carlos</h1>
 
 ###
 
